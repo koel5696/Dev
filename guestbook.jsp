@@ -31,7 +31,7 @@
         <tr>
             <th class="center-text">번호</th>
             <th class="center-text">작성일</th>
-            <th class="center-text"><a href="http://localhost:8080/jwbook/ch11/edit.jsp">제목</a></th>
+            <th class="center-text"><a href="http://localhost:8080/ch11/edit.jsp">제목</a></th>
             <th class="center-text">작성자</th>
             <th class="center-text">이메일</th>
         </tr>
