@@ -42,7 +42,7 @@
                 <td class="center-text">${status.count}</td>
                 <td class="center-text">${guestbook.date}</td>
                 <td class="center-text">
-                    <a href="${pageContext.request.contextPath}/ch11/newguest.jsp?title=${guestbook.title}" class="guestbook-link">
+                    <a href="${pageContext.request.contextPath}/ch11/edit.jsp?title=${guestbook.title}" class="guestbook-link">
                         ${guestbook.title}
                     </a>
                 </td>
@@ -71,4 +71,4 @@ document.querySelector("#register-button").addEventListener("click", function(e)
 </script>
 
 </body>
-</html> 
+</html>
