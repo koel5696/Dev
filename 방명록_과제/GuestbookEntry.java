@@ -3,7 +3,7 @@ package ch11;
 import java.util.Date;
 
 public class GuestbookEntry {
-    private int id;
+    private int id; 
     private java.sql.Date date;
     private String title;
     private String author;
